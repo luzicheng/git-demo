@@ -9,6 +9,6 @@ hello git! hello luzc!
 hello git! hello luzc!
 hello git! hello luzc!
 hello git! hello luzc!
-hello git! hello luzc!
+hello git! hello luzc!hot-fix test
 hello git! hello luzc!
 222222222222222222222
